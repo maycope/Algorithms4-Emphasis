@@ -1,6 +1,8 @@
 # Algorithms4-Emphasis
 
 
+![图片](https://github.com/maycope/Algorithms4-Emphasis/blob/master/pricure/SEOY3Z6QGSB9L%7D%40R5%7D%5BO8TS.png)
+
 
 时值今日，算法已经成为所有程序员必不可少的一项基本功。无论你是初入计算机行业的小白，亦或是勤勤恳恳耕耘了数十年的大佬，算法却都是我们绕不开的话题。
 
