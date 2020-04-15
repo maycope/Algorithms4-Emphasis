@@ -4,6 +4,18 @@
 ![图片](https://github.com/maycope/Algorithms4-Emphasis/blob/master/pricure/SEOY3Z6QGSB9L%7D%40R5%7D%5BO8TS.png)
 
 
+Today, algorithms have become an essential skill for all programmers.Whether you're a beginner in the computer industry or a veteran of decades of hard work, algorithms are a topic we can't get around.
+
+Sure, you can write code that runs (which is pretty simple), but if you want to balance the complexity of time with the complexity of space, you need to think seriously.Not only do you have to learn the basic theoretical ideas but you also have to understand the specific processes that are going on, you have to have a deep understanding of how each line of code is going on, and I believe you have to do that systematically.
+
+"Algorithm" (the fourth edition) is a good book (English version) including sorting, search, tree, graph, string and so on several modules, is too important for the basic learning, often I do not understand the knowledge points, can always find a microcosm above, so as to solve my problems.Of course we can't carry it with us all the time, and it's over 600 pages long, but it's too slow (for me) to access the corresponding website.Many of these things are far less practical than books.Therefore, in order to be able to quickly find the corresponding chapter and corresponding code when encountering the same problem again, I want to make a record of the above important algorithm ideas and theories.
+
+For the essence of this book is its illustrations, almost all can let us understand more thorough picture is recorded, and relative to the physical book is colorful, more conducive to us to understand and digest absorb, so I will also to the book will be able to help people understand and digest the illustrations are a record of their understanding.At the same time, the corresponding module will be added in the future when the corresponding topic of LeetCode is scanned
+
+This warehouse will be maintained and updated all the time, if you feel that the writing can help you, welcome to give a little star.
+
+
+**译**：
 时值今日，算法已经成为所有程序员必不可少的一项基本功。无论你是初入计算机行业的小白，亦或是勤勤恳恳耕耘了数十年的大佬，算法却都是我们绕不开的话题。
 
 你当然可以写出可以跑起来的代码（这是非常的简单），但是若是想要兼顾时间复杂度的同时又要注意空间复杂度的问题，就需要我们进行一番认认真真的考量。你不但要学习基本的理论思想还要明白具体的运行流程，深入理解每一行代码的运行过程，我相信还是要进行系统性的学习。
